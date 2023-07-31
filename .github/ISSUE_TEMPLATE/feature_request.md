@@ -1,6 +1,6 @@
 ---
 name: New Feature or Enhancement
-description: Propose a new feature or enhancement
+about: Propose a new feature or enhancement
 labels: enhancement
 ---
 
