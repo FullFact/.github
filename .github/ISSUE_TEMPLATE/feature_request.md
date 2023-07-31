@@ -24,7 +24,7 @@ labels: enhancement
   
   Remember, requirements should be: 
    - verifiable: there's an obvious yes / no answer to "does the 
-    implementation meets this requirement?"
+     implementation meet this requirement?"
    - unambiguous: be explicit - no "better", "faster", "simple", etc.
    - singular: one requirement per point (no "ands" or "ors")
 -->
@@ -33,7 +33,7 @@ labels: enhancement
 3. ...
 
 
-### Notes and Additional Information
+### Notes and additional information
 <!-- 
   Add any context, such as:
    - Possible alternative solutions to the problem being solved
