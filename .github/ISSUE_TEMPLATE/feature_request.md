@@ -1,5 +1,5 @@
 ---
-name: New Feature or Enhancement
+name: New feature or enhancement
 about: Propose a new feature or enhancement
 labels: enhancement
 ---
