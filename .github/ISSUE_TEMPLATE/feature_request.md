@@ -1,21 +1,42 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: New Feature or Enhancement
+description: Propose a new feature or enhancement
 labels: enhancement
 ---
 
-### Is your feature request related to a problem? Please describe.
+### Overview
+<!-- 
+  Give a high level overview and background of the feature, 
+  explaining why it is needed or what it enables. There should
+  be enough detail for someone to pick up this ticket and
+  understand the reason for the new feature and how it might
+  be used by users. Who? What? Why?
+-->
 
-A clear and concise description of what the problem is.
 
-### Describe the solution you’d like
 
-A clear and concise description of what you want to happen.
+### Requirements
+<!--  
+  What requirements does the final implementation need to meet
+  in order for the issue to be considered complete? What are the
+  design constraints? Good and clean requirements can save wasted 
+  effort.
+  
+  Remember, requirements should be: 
+   - verifiable: there's an obvious yes / no answer to "does the 
+    implementation meets this requirement?"
+   - unambiguous: be explicit - no "better", "faster", "simple", etc.
+   - singular: one requirement per point (no "ands" or "ors")
+-->
+1. ...
+2. ...
+3. ...
 
-### Describe alternatives you’ve considered
 
-A clear and concise description of any alternative solutions or features you’ve considered.
-
-### Additional context
-
-Add any other context or screenshots about the feature request here.
+### Notes and Additional Information
+<!-- 
+  Add any context, such as:
+   - Possible alternative solutions to the problem being solved
+   - Useful resources, such as potentially useful libraries or tools
+   - Screenshots, links to data, etc.
+-->
