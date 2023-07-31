@@ -19,7 +19,7 @@ labels: enhancement
 <!--  
   What requirements does the final implementation need to meet
   in order for the issue to be considered complete? What are the
-  design constraints? Good and clean requirements can save wasted 
+  design constraints? Good and clear requirements can save wasted 
   effort.
   
   Remember, requirements should be: 
