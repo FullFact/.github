@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 🦋 Bug report
 about: Have you found a bug? Please complete the template to help us fix it.
 labels: bug
 ---
