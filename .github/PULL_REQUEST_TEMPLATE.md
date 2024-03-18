@@ -8,7 +8,7 @@ The more detail, the better.**
 ## Pull request checklist
 
 - [ ] I have linked my PR to an issue
-- [ ] I am content that my [commit messages are good](https://chris.beams.io/posts/git-commit/)
+- [ ] I’ve used [conventional commits](https://www.conventionalcommits.org)
 - [ ] My branch is up-to-date with `main`
 - [ ] Where appropriate, I have added or updated tests
 - [ ] Where appropriate, I have [updated documentation](https://github.com/fullFact/automation-docs/) to reflect my changes
