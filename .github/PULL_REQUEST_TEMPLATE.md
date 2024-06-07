@@ -1,4 +1,4 @@
-Fixes #X.
+Closes #X.
 
 **Replace this text with a summary of the changes in your PR.
 The more detail, the better.**
