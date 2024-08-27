@@ -5,11 +5,13 @@ about: Propose a new research question
 
 ### Context
 <!--
-  Give a high-level overview to put the research question in
-  context and explain why the answer is needed. There should be 
-  enough detail for anyone to pick up this ticket and understand 
-  the topic of research proposed. If the answer will be some new
-  code, consider raising a feature request instead.
+  Some work is not intended to lead to new or improved code, but is
+  better considered as a research question. This doesn't fit the 
+  existing "new feature" or "bug" templates. 
+
+  Put the research question in context with a high-level overview
+  and explain why an answer is needed. Provide enough detail for 
+  anyone to read this ticket and understand the proposed research.   
 -->
 
 
@@ -23,15 +25,19 @@ about: Propose a new research question
   need a lot of effort to answer thoroughly, but too narrow may
   not produce useful, general answers.
   
-  What should the answer look like? Will it be a single fact or
-  a document, a spreadsheet, a graph? Who is the intended 
-  audience? Should the answer be exact and precise or is a
-  quick "ballpark" answer enough? 
+  Be clear about what the answer should look like. Will it be a 
+  single number or a document, a spreadsheet, a graph? Who is the 
+  intended audience? Should the answer be exact and precise or is
+  a quick "ballpark" answer enough? 
+
+  If the answer will be some new reusable code, consider raising 
+  a feature request instead.
   
-  A clear question will save wasted effort.
 -->
 RQ1. ...
+
 RQ2. ...
+
 RQ3. ...
 
 
@@ -39,6 +45,6 @@ RQ3. ...
 <!--
   Add any context, such as:
    - Possible alternative solutions to the problem being solved
-   - Useful resources, such as potentially useful papers, code etc.
+   - Links to useful related research, such as papers, websites, code etc.
    - Screenshots, links to data, etc.
 -->
