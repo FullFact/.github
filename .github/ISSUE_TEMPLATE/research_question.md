@@ -5,10 +5,6 @@ about: Propose a new research question
 
 ### Context
 <!--
-  Some work is not intended to lead to new or improved code, but is
-  better considered as a research question. This doesn't fit the 
-  existing "new feature" or "bug" templates. 
-
   Put the research question in context with a high-level overview
   and explain why an answer is needed. Provide enough detail for 
   anyone to read this ticket and understand the proposed research.   
@@ -18,8 +14,8 @@ about: Propose a new research question
 
 ### Resarch Question(s)
 <!--
-  Ask an explicit research question. If there's more than one
-  closely related questions, make it a list.
+  Ask an explicit research question. Only make it a list of questions
+  if they are best answered together.
 
   Consider the scope of the question: too broad a question may
   need a lot of effort to answer thoroughly, but too narrow may
