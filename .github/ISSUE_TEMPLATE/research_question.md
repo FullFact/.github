@@ -12,7 +12,7 @@ about: Propose a new research question
 
 
 
-### Resarch Question(s)
+### Research Question(s)
 <!--
   Ask an explicit research question. Only make it a list of questions
   if they are best answered together.
